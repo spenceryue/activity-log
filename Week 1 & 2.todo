@@ -1,0 +1,133 @@
+Best viewed in VSCode with this plugin: https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus
+
+Tuesday 5/28:
+  9:30 - 5pm, 1 - 1:30pm lunch --> 7 hours
+  ✔ orientation @done(19-05-29 20:17)
+  ✔ introduction + briefing on first task (downgrade a sample page) @done(19-05-29 20:17)
+
+Wednesday 5/29:
+  10am - 8:30pm, 12-12:30pm lunch --> 10 hours
+  ✔ udemy @est(2h) @done(19-05-29 20:48)
+  ✔ IT laptop setup (.5 hour) @done(19-05-29 20:17)
+  ✔ configuration / getting comfortable (5 hours) @done(19-05-29 20:17)
+    ✔ vscode (extensions, shortcuts, settings) @done(19-05-29 20:17)
+    ✔ terminal (font, colors, prompt) @done(19-05-29 20:17)
+    ✔ navigation shortcuts (snap window left/right) @done(19-05-29 20:17)
+    ✔ adapting to a mac (cmd+q quit, cmd+tab switch, cmd+shift+. show hidden files, cmd+space spotlight) @done(19-05-29 20:17)
+      ✔ disable ALT+LETTER combos in keyboard input sources to allow ALT-shortcuts. @done(19-05-29 20:17)
+      ✔ cmd+alt+# launch app from dock (with snap) @done(19-05-29 20:18)
+    ✔ installed brew, git, yarn, node, fish (shell), @done(19-05-29 20:18)
+  ✔ udemy (1 hour) @done(19-05-29 20:18)
+  ✔ make activity log (1 hour) @done(19-05-29 21:02)
+
+Thursday 5/30:
+  10am - 12:30pm, lunch 45min, 1:15pm - ??? --> ??? hours
+  ✔ lunch @started(19-05-30 12:30) @done(19-05-30 13:16) @lasted(46m9s)
+  ☐ Do some new hire checklist items
+    ☐ setup timesheet @15m
+    ✔ make email signature @10m @started(19-05-30 10:18) @done(19-05-30 10:30) @lasted(12m8s)
+  ☐ Setup dev environment
+    ✔ Get access to dev setup powerpoint @started(19-05-30 10:30) @done(19-05-30 10:30) @lasted(7s)
+    ☐ Follow Batman powerpoint
+  ✔ Filed IT ticket to get BitBucket access @done(19-05-30 13:49)
+    ✔ Got access @done(19-05-30 17:10)
+  ✔ Awaiting Brian for Abstract access @done(19-05-30 15:34)
+  ✔ Reading about CSS Grid @30m @started(19-05-30 17:44) @done(19-05-30 19:26) @lasted(1h42m59s)
+    ✔ 18 sections left @54m @started(19-05-30 18:11) @done(19-05-30 19:26) @lasted(1h15m57s)
+  ✔ Read REST RFC @started(19-05-30 18:32) @done(19-05-30 19:26) @lasted(54m54s)
+
+Udemy sections remaining:
+  ✔ 1 Getting Started @37m @done(19-05-29 20:20)
+  ✔ 2 The Basics @done(19-05-30 16:05)
+    ✔ Prior stuff @1h44min @done(19-05-29 21:01)
+    ✔ Directives exercise (#3) @11min @started(19-05-30 11:23) @done(19-05-30 11:57) @lasted(34m34s)
+      ✔ Initial setup @started(19-05-30 11:15) @done(19-05-30 11:23) @lasted(8m33s)
+    ✔ Databinding Exercise (#2) @15m @done(19-05-30 15:56)
+      ✔ Initial clone setup @started(19-05-30 12:23) @done(19-05-30 15:57) @lasted(3h34m15s)
+    ✔ Components Practice Exercise (#1) @10m @done(19-05-30 15:57)
+  Chunk 1:
+    ✔ 3 Course Project - The Basics @1h4m @started(19-05-30 15:57) @done(19-05-31 07:26) @lasted(15h29m6s)
+      ✔ Deployed to GitHub Pages (https://spenceryue.me/learning-angular/) @done(19-05-31 08:04)
+    ✔ 4 Debuggging - @12m @started(19-05-31 08:07) @done(19-05-31 08:16) @lasted(9m30s)
+    ✔ 5 Components & Data Binding Deep Dive @1h25m @started(19-05-31 09:27) @done(19-05-31 23:42) @lasted(14h15m1s)
+    ✔ 6 Course Project - Components & Databinding @31m @started(19-06-01 22:54) @done(19-06-01 23:26) @lasted(32m49s)
+    ✔ 7 Directives Deep Dive @47m @started(19-06-01 23:26) @done(19-06-01 23:56) @lasted(30m41s)
+    ✔ 8 Course Project - Directives @7m @started(19-06-03 10:19) @done(19-06-03 10:31) @lasted(12m47s)
+    ✔ 9 Using Services & Dependency Injection @44m @started(19-06-03 10:41) @done(19-06-03 11:58) @lasted(1h17m15s)
+    ✔ 10 Course Project - Services & Dependency Injection @31m @started(19-06-03 11:58) @done(19-06-03 13:58) @lasted(2h53s)
+    ✔ Exercises: @done(19-06-03 13:58)
+  Chunk 2:
+    ✔ 11 Changing Pages with Routing @2h18m @done(19-06-03 17:04)
+    ✔ 12 Course Project - Routing @46m @started(19-06-04 00:45) @done(19-06-04 04:43) @lasted(3h58m12s)
+    ☐ 13 Understanding Observables @45m
+    ☐ 14 Course Project - Observables @6m
+    ☐ 15 Handling Forms in Angular Apps @2h2m
+    ☐ Exercises:
+  Chunk 3:
+    ☐ 16 Course Project - Forms @1h15m
+    ☐ 17 Using Pipes to Transform Output @37m
+    ☐ 18 Making Http Requests @1h41m
+    ☐ 19 Course Project - Http @34m
+    ☐ 20 Authentication & Route Protection in Angular @2h12m
+    ☐ 21 Dynamic Components @38m
+    ☐ Exercises:
+
+Friday 5/31:
+  ??? -, 1pm - 1:30pm lunch, 1:30pm - ???
+  ✔ dealt with cisco emails about mismatched work/residence locations (1 hr) @done(19-05-31 09:12)
+  ✔ break @started(19-05-31 09:12) @done(19-05-31 09:26) @lasted(14m46s)
+  ✔ Start section 5 @started(19-05-31 09:27) @done(19-05-31 09:49) @lasted(22m27s)
+  ✔ break @started(19-05-31 09:49) @done(19-05-31 11:27) @lasted(1h38m50s)
+  ✔ start section 5 again @started(19-05-31 11:47) @done(19-05-31 23:42) @lasted(11h55m14s)
+  ✔ start section 6 @started(19-05-31 23:50) @done(19-06-01 00:51) @lasted(1h1m27s)
+    ✔ Documented progress ~30min @done(19-06-01 00:51)
+
+Saturday 6/1:
+  10:30pm -
+  ✔ Start section 6 @started(19-06-01 22:31) @done(19-06-01 23:26) @lasted(55m45s)
+  ✔ Start section 7 @started(19-06-01 23:27) @done(19-06-01 23:56) @lasted(29m45s)
+  
+Monday 6/3:
+  10:20am - 2pm, lunch (short), -- roughly 6 started goofing off on css.
+  ✔ Start section 8 @started(19-06-03 10:19) @done(19-06-03 10:31) @lasted(12m36s)
+  ✔ Start section 9 @started(19-06-03 10:31) @done(19-06-03 11:58) @lasted(1h27m18s)
+  ✔ Start section 10 @started(19-06-03 11:58) @done(19-06-03 13:58) @lasted(2h47s)
+  lunch
+  Start section 11
+  ✔ Pause section 11 @started(19-06-03 15:11) @done(19-06-03 15:28) @lasted(17m44s)
+  Resume section 11...
+  ✔ Resume section 11 @started(19-06-03 16:52) @done(19-06-03 17:04) @lasted(12m49s)
+  Start section 12
+  ✔ Resume section 12 @done(19-06-04 04:43)
+  
+Thursday 6/6:
+  10:10am -
+  ✔ Enter time card @15min @started(19-06-06 10:27) @done(19-06-06 10:40) @lasted(13m44s)
+  https://wwwin-hrprd.cisco.com/OA_HTML/OA.jsp?page=/oracle/apps/per/talentprofile/webui/TMEmployeePG&_ti=1977248941&language_code=US&MoreLinkMapMgr=HR_TP_MGR_MORE_LINK&MoreLinkMapEmp=HR_TP_EMP_MORE_LINK&oapc=4&oas=r5vzXHkWUmncF_NEzSKsiA..
+  ✔ Check new hire checklist @10m @started(19-06-06 10:42) @done(19-06-06 11:40) @lasted(58m29s)
+    https://docs.google.com/document/u/1/d/e/2PACX-1vRvtFFRIjL6_41MQoZPmTJmVLyIxd-SJTTcBMM7lUPA3IMunB-hzKB0OurEGQjAuWP_PVYYLBICy8GH/pub?embedded=true
+    ✔ Fill out direct deposit @5min @started(19-06-06 10:46) @done(19-06-06 10:50) @lasted(4m27s)
+    ✔ Fill out W4 @5min @started(19-06-06 10:50) @done(19-06-06 10:52) @lasted(2m45s)
+    ✔ Fill state tax form @started(19-06-06 10:53) @done(19-06-06 11:27) @lasted(34m41s)
+      ✔ Reading about california state tax withholding @15min @started(19-06-06 10:59) @done(19-06-06 11:27) @lasted(28m35s)
+      >>> Inconclusive
+    Required trainings:
+      ☐ https://learn.cisco.com/?courseID=COT00187074 @15min
+      ☐ https://learn.cisco.com/?courseID=COT00183290 @30min
+      ☐ https://learn.cisco.com/?courseID=COT00219047 @30min
+      ☐ What to do about Risk Assessment Program? (login required... some IBM website)
+    ✔ Respond to recruitment exp invite @5min @started(19-06-06 11:38) @done(19-06-06 11:40) @lasted(2m12s)
+      Marked in macbook calendar
+    ☐ Left to do:
+      ☐ required trainings
+      ☐ state tax form
+  ✔ Break @5min @started(19-06-06 11:42) @done(19-06-06 11:57) @lasted(15m41s)
+  ✔ Start environment setup @1hr @started(19-06-06 12:05) @done(19-06-06 12:47) @lasted(42m42s)
+    Pausing
+    ✔ break @started(19-06-06 12:47) @done(19-06-06 14:06) @lasted(1h19m50s)
+  ☐ Resume env setup @started(19-06-06 14:07)
+    Sprint plan meeting in between @1hr
+  ✔ Finished controller setup and built. @done(19-06-07 11:50)
+  ✔ Revised DEVELOPING.md in ui-kit repo. @done(19-06-07 11:50)
+  ✔ Started on Anand's assignment to port the V1 sample app ("studio app") from ui-kit to view-main (downgrading). @done(19-06-07 11:50)
+      
